@@ -1,0 +1,13 @@
+conda create -n keras-env python=3.6
+安装所需包
+pip install -r requirements.txt
+condainstall 里的命令逐条运行
+安装graphviz-2.38.msi
+把路径C:\Program Files (x86)\Graphviz2.38\bin添加到环境变量中
+
+运行时运行trackgesture.py -> 1 ->g
+接着运行liveplot.py
+
+大功告成！
+
+代码之前为python2版本，将所有功能测试完将有问题的代码替换为python3

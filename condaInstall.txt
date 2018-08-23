@@ -1,0 +1,3 @@
+conda install mkl-service m2w64-toolchain mingw libpython
+conda uninstall mkl=2018
+conda install mkl=2017

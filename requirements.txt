@@ -1,0 +1,8 @@
+sklearn
+pillow
+theano
+tensorflow-gpu
+keras
+opencv-python
+matplotlib
+pydot
